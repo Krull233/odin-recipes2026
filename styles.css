@@ -19,6 +19,10 @@ body {
     margin-right: 70%;
 }
 
+p {
+    margin: 0% 3.5%;
+}
+
 ul li, ol li {
     margin: 10px;
 }
