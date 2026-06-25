@@ -6,14 +6,26 @@ body {
     font-weight: bold;
 }
 
-.heading {
+.heading, .subheading {
     color: #ffffff;
     background-color: #49df94;
     padding: .5%;
     border: #1f804f 5px solid;
     text-align: center;
+    border-radius: 10px;
+}
+
+.subheading {
+    margin-right: 70%;
 }
 
 ul li, ol li {
     margin: 10px;
+}
+
+img {
+    border-radius: 10px;
+    border: #1f804f 5px solid;
+    display: block;
+    margin: auto;
 }
